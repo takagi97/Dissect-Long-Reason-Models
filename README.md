@@ -1,11 +1,11 @@
 # Dissecting Long Reasoning Models: An Empirical Study
 
-This repo contains code used for experiments in the paper ["Dissecting Long Reasoning Models: An Empirical Study"](). 
+This repo contains code used for experiments in the paper ["Dissecting Long Reasoning Models: An Empirical Study"](https://arxiv.org/abs/2506.04913). 
 
 
 ## News
 
-- [2025/06/05] We released [the paper]() and [the codebase](https://github.com/takagi97/Dissect-Long-Reason-Models).
+- [2025/06/06] We released [the paper](https://arxiv.org/abs/2506.04913) and [the codebase](https://github.com/takagi97/Dissect-Long-Reason-Models).
 
 
 ## Introduction
@@ -87,13 +87,13 @@ We extend our sincere gratitude to Verl, vLLM, DeepSpeed, Qwen, and DeepSeek R1 
 If you find our work helpful, please kindly cite us as:
 
 ```bibtex
-@misc{yeotong2025longcot,
-      title={Demystifying Long Chain-of-Thought Reasoning in LLMs}, 
-      author={Edward Yeo and Yuxuan Tong and Morry Niu and Graham Neubig and Xiang Yue},
+@misc{mu2025dissectinglongreasoningmodels,
+      title={Dissecting Long Reasoning Models: An Empirical Study}, 
+      author={Yongyu Mu and Jiali Zeng and Bei Li and Xinyan Guan and Fandong Meng and Jie Zhou and Tong Xiao and Jingbo Zhu},
       year={2025},
-      eprint={2502.03373},
+      eprint={2506.04913},
       archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.03373}, 
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2506.04913}, 
 }
 ```
